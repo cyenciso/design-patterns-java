@@ -5,8 +5,8 @@ This repository is for learning and understanding popular software development d
 ## OOP Principles to Keep in Mind
 * encapsulate what changes
 * favor composition of inheritance
-* program to interfaces, not implementations
-* loose coupling: entities can depend on one another, but they must not know the details of the other entities
+* program to interfaces, not concrete implementations
+* loose coupling: entities can depend on or interact with one another, but they must not know the details of the other entities
 
 ## Pattern Links
 * [Strategy Pattern](https://github.com/cyenciso/design-patterns-java/tree/main/design-patterns/Strategy-Pattern)
