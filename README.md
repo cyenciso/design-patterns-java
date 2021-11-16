@@ -6,6 +6,7 @@ This repository is for learning and understanding popular software development d
 * encapsulate what changes
 * favor composition of inheritance
 * program to interfaces, not implementations
+* loose coupling: entities can depend on one another, but they must not know the details of the other entities
 
 ## Pattern Links
 * [Strategy Pattern](https://github.com/cyenciso/design-patterns-java/tree/main/design-patterns/Strategy-Pattern)
