@@ -1,6 +1,6 @@
-package flexible.models;
+package pattern.models;
 
-import flexible.behavior.WorkBehavior;
+import pattern.behavior.WorkBehavior;
 
 /*
   In my parent class, instead of having an abstract doWork() method, I have a workBehavior property. 

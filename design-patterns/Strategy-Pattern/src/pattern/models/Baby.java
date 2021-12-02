@@ -1,6 +1,6 @@
-package flexible.models;
+package pattern.models;
 
-import flexible.behavior.DoNotWork;
+import pattern.behavior.DoNotWork;
 
 public class Baby extends Person {
 	

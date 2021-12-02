@@ -1,4 +1,4 @@
-package flexible.behavior;
+package pattern.behavior;
 
 /*
   To add in a new behavior to a Person, I can take the implementation out of the Person hierarchy completely.

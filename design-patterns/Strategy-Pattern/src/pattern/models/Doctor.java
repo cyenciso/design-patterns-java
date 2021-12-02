@@ -1,6 +1,6 @@
-package flexible.models;
+package pattern.models;
 
-import flexible.behavior.DoWork;
+import pattern.behavior.DoWork;
 
 public class Doctor extends Person {
 	

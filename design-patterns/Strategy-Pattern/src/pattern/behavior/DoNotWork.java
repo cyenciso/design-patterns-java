@@ -1,4 +1,4 @@
-package flexible.behavior;
+package pattern.behavior;
 
 public class DoNotWork implements WorkBehavior {
 	public void work() {

@@ -1,7 +1,7 @@
-package flexible;
+package pattern;
 
-import flexible.behavior.DoNotWork;
-import flexible.models.Doctor;
+import pattern.behavior.DoNotWork;
+import pattern.models.Doctor;
 
 /*
   This class tests the strategy pattern. Notice that the behavior is no longer tied to the models.  
