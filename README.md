@@ -7,6 +7,7 @@ This repository is for learning and understanding popular software development d
 * favor composition of inheritance
 * program to interfaces, not concrete implementations
 * loose coupling: entities can depend on or interact with one another, but they must not know the details of the other entities
+* classes should be open for extension, but closed for modification.
 
 ## Pattern Links
 * [Strategy Pattern](https://github.com/cyenciso/design-patterns-java/tree/main/design-patterns/Strategy-Pattern)
